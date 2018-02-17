@@ -1,0 +1,28 @@
+{
+  "name": "meterstodegrees",
+  "version": "0.0.1",
+  "description":
+    "Convert meters into degrees according to the latitude provided",
+  "main": "/src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardogspereira/metersTodegrees.git"
+  },
+  "keywords": [
+    "gis",
+    "latitude",
+    "conversion",
+    "longitude",
+    "degree",
+    "meters"
+  ],
+  "author": "Eduardo G. S. Pereira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eduardogspereira/metersTodegrees/issues"
+  },
+  "homepage": "https://github.com/eduardogspereira/metersTodegrees#readme"
+}
