@@ -25,8 +25,8 @@ const latLen = latitude =>
 
 const deg2rad = degrees => degrees * (2.0 * Math.PI) / 360;
 
-const lonDegree = (degrees, meters) => meters / lonLen(deg2rad(degrees));
-const latDegree = (degrees, meters) => meters / latLen(deg2rad(degrees));
+const lonDegrees = (degrees, meters) => meters / lonLen(deg2rad(degrees));
+const latDegrees = (degrees, meters) => meters / latLen(deg2rad(degrees));
 
-exports.lonDegree = lonDegree;
-exports.latDegree = latDegree;
+exports.lonDegrees = lonDegrees;
+exports.latDegrees = latDegrees;
