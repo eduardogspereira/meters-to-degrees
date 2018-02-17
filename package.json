@@ -1,6 +1,6 @@
 {
   "name": "meterstodegrees",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description":
     "Convert meters into degrees according to the latitude provided",
   "main": "./src/index.js",
