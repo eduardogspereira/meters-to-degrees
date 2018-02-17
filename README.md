@@ -8,7 +8,7 @@ Calculates how many degrees are equivalent to a length in meters according to la
 $ npm install meterstodegrees
 ```
 
-The calculations was based on [here](https://msi.nga.mil/MSISiteContent/StaticFiles/Calculators/degree.html) and [here](https://gis.stackexchange.com/questions/75528/understanding-terms-in-length-of-degree-formula/75535#75535).
+The calculations were based on [here](https://msi.nga.mil/MSISiteContent/StaticFiles/Calculators/degree.html) and [here](https://gis.stackexchange.com/questions/75528/understanding-terms-in-length-of-degree-formula/75535#75535).
 
 ## Usage
 
